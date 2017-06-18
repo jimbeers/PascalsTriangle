@@ -1,2 +1,2 @@
 # PascalsTriangle
-This is a java project that creates a pascals triangle
+This is a java project that creates pascal's triangle
