@@ -2,7 +2,8 @@ package com.jimbeers;
 /*
  *  This is the binomial expantion object.
  *
- * /
+ */
+
 public class BinomialExpanstion {
 	long[] multiplyers;
 	public BinomialExpanstion(int x, int y, int k) {
