@@ -41,9 +41,13 @@ public class PascalsWithRecursion {
 		return "PascalsWithRecursion [valueRow=" + Arrays.toString(valueRow) + "";
 	}
 	
+	public String displayString() {
+		return "" + Arrays.toString(valueRow) + "";
+	}
+	
 	
 	public static void main(String[] args) {
-		PascalsWithRecursion p = new PascalsWithRecursion(13);
+		PascalsWithRecursion p = new PascalsWithRecursion(28);
 		long[] values = p.getValueRow();
 		
 	}
